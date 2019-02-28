@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551330477337.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1882050504",
+    "id" : "2A34FE7C",
+    "lastKnownWriteTime" : 1551330836,
+    "last_content_update" : 1551330836453,
+    "path" : "D:/COML/Git_program/YeungEasyRFunc/R/FC.R",
+    "project_path" : "R/FC.R",
+    "properties" : {
+        "cursorPosition" : "12,7",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

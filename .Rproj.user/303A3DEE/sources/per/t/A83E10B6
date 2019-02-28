@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551330911409.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1462220843",
+    "id" : "A83E10B6",
+    "lastKnownWriteTime" : 1551331490,
+    "last_content_update" : 1551331490948,
+    "path" : "D:/COML/Git_program/YeungEasyRFunc/R/diffExpr.R",
+    "project_path" : "R/diffExpr.R",
+    "properties" : {
+        "cursorPosition" : "20,33",
+        "scrollLine" : "6",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

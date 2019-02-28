@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551329675115.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2724381242",
+    "id" : "ADC1E6D8",
+    "lastKnownWriteTime" : 1551330354,
+    "last_content_update" : 1551330377754,
+    "path" : "D:/COML/Git_program/YeungEasyRFunc/R/pValue.R",
+    "project_path" : "R/pValue.R",
+    "properties" : {
+        "cursorPosition" : "15,13",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
